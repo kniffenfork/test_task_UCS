@@ -1,0 +1,11 @@
+Sat Mar 27 01:37:42 MSK 2021 : Security manager installed using the Basic server security policy.
+Sat Mar 27 01:37:43 MSK 2021 : Сетевой сервер Apache Derby Network Server - 10.15.2.0 - (1873585) запущен и готов принимать соединения на порту 1527 на {3} 
+Sat Mar 27 01:37:46 MSK 2021 : Security manager installed using the Basic server security policy.
+Sat Mar 27 01:37:46 MSK 2021 : Could not listen on port 1527 on host localhost:
+ java.net.BindException: Address already in use
+Sat Mar 27 01:38:35 MSK 2021 : Security manager installed using the Basic server security policy.
+Sat Mar 27 01:38:36 MSK 2021 : Could not listen on port 1527 on host localhost:
+ java.net.BindException: Address already in use
+Sat Mar 27 01:39:00 MSK 2021 : Security manager installed using the Basic server security policy.
+Sat Mar 27 01:39:00 MSK 2021 : Could not listen on port 1527 on host localhost:
+ java.net.BindException: Address already in use
