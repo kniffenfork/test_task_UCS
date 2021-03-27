@@ -1,0 +1,13 @@
+server:
+  port: 8080
+
+spring:
+  datasource:
+    url: ${SPRING_DATASOURCE_URL:jdbc:derby://localhost:1527/test;create=true}
+    driver-class-name: org.apache.derby.jdbc.ClientDriver
+    username: ${DERBY_USER:uname}
+    password: ${DERBY_PASSWORD:pass}
+  jpa:
+    hibernate:
+      ddl-auto: validate
+    show-sql: true
